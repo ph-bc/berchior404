@@ -27,16 +27,16 @@
 
 <hr>
 
-<h3>Redes sociais</h3>
+<h3>Redes sociais:</h3>
 
 <a href="https://www.linkedin.com/in/ph-bc/">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/https.pedrocs/">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
