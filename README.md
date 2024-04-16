@@ -1,31 +1,47 @@
-## 🪐 Bem-vindo(a) ao meu perfil ✨
+<h2>🪐 Bem-vindo(a) ao meu perfil ✨</h2>
 
 <!--
 **berchior404/berchior404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Sou estudante de Ciência da Computação e estou sempre buscando aprender algo novo.
+<p>📖 Sou estudante de Ciência da Computação e estou sempre buscando aprender algo novo.</p>
+<p>⚡ Atualmente estou estudando sobre programação web (front-end), mais especificamente React.js</p>
 
-⚡ Atualmente estou estudando sobre programação web (front-end), mais especificamente React.js
+<div>
+<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+</div>
 
+<hr>
 
+<h3>Gosto de:</h3>
+<ul>
+  <li>👨🏾‍💻 Programar</li>
+  <li>🎮 Jogar</li>
+  <li>🎵 Ouvir música</li>
+  <li>💡 Aprender algo novo</li>
+  <li>🪐 Usar a criatividade</li>
+  <li>🍕 Pizza!</li>
+</ul>
 
-#### Gosto de:
-- 👨🏾‍💻 Programar
-- 🎮 Jogar
-- 🎵 Ouvir músicas variadas
-- 🪐 Usar a criatividade
-- 💡 Aprender algo novo
-- 🍕 Pizza!
+<hr>
 
+<h3>Redes sociais</h3>
 
+<a href="https://www.linkedin.com/in/ph-bc/">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
+</a>
 
-### Redes sociais
-[LinkedIn](https://www.linkedin.com/in/ph-bc/)
-|
-[Instagram](https://www.instagram.com/https.pedrocs/)
+<a href="https://www.instagram.com/https.pedrocs/">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
+<a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
+<hr>
 
-> O que sabemos é uma gota; o que ignoramos é um oceano.
-~ Isaac Newton
+<blockquote>O que sabemos é uma gota; o que ignoramos é um oceano.</blockquote>
+<span>~ Isaac Newton</span>
