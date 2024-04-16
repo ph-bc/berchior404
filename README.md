@@ -6,24 +6,24 @@
 
 Sou estudante de Ciência da Computação e estou sempre buscando aprender algo novo.
 
-⚡ Atualmente estou estudando sobre programação web (front-end & back-end).
+⚡ Atualmente estou estudando sobre programação web (front-end), mais especificamente React.js
 
 
 
 #### Gosto de:
 - 👨🏾‍💻 Programar
 - 🎮 Jogar
-- 🎵 Ouvir músicas
-- 🪐💡 Usar a criatividade
-- 💬 Conhecer novas pessoas
-- 🍕 Comer pizza
+- 🎵 Ouvir músicas variadas
+- 🪐 Usar a criatividade
+- 💡 Aprender algo novo
+- 🍕 Pizza!
 
 
 
 ### Redes sociais
-[LinkedIn](https://www.linkedin.com/in/pedro-berchior/)
+[LinkedIn](https://www.linkedin.com/in/ph-bc/)
 |
-[Instagram](https://www.instagram.com/phbc.exe/)
+[Instagram](https://www.instagram.com/https.pedrocs/)
 
 
 
