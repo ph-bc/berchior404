@@ -29,15 +29,15 @@
 
 <h3>Redes sociais:</h3>
 
-<a href="https://www.linkedin.com/in/ph-bc/">
+<a target="_blank" href="https://www.linkedin.com/in/ph-bc/">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/https.pedrocs/">
+<a target="_blank" href="https://www.instagram.com/https.pedrocs/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/401576105489858560">
+<a target="_blank" href="https://discord.com/users/401576105489858560">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
