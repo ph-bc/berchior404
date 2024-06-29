@@ -5,12 +5,14 @@
 -->
 
 <p>📖 Sou estudante de Ciência da Computação e estou sempre buscando aprender algo novo.</p>
-<p>⚡ Atualmente estou estudando sobre programação web (front-end), mais especificamente React.js</p>
+<p>⚡ Atualmente estou estudando programação web (front-end), mais especificamente React.js + Javascript & Typescript</p>
 
 <div>
-<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+  <img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
 <hr>
